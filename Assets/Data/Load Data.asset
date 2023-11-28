@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92ed142b308bd43a0ba3ee63bd84ed52, type: 3}
+  m_Name: Load Data
+  m_EditorClassIdentifier: 
+  m_URLs:
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_dialogassetsremote_assets_all_08bbdc5dce22199568a51d48134aeb71.bundle.md5-516f33b143e3643a2214d0c9a2980080
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_dialogassetsadventureremote_assets_all_6ea509a26970ddeed0dec132bb453733.bundle.md5-cd4dddbada1a65f1197a60d0d44bbf7c
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_dialogextrasremote_assets_all_6d5cccae0cee1f6e64002cb1cde70805.bundle.md5-ea4c92cb25964d479709bb848ab501e1
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_characters_assets_all_8a3094c46c62eb7b610750e4a540d841.bundle.md5-f550638991aa5a252e68d679895c345c
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_sharedcharacterassets_assets_all_e45e0e2f49cbd4354152b953c747892b.bundle.md5-d82e7c74cec70b427a9ec46770172228
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_characters_animations_remote_assets_all_8bbf45af9ffebc22fa54357d5fa24315.bundle.md5-6cfd3ec8d976f446533878bfac2cbf94
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_enemieschapter15_assets_all_1b12231d3475503f4ce6661b16cdaa9c.bundle.md5-e83fc2192ca4421e02766686a7fd6364
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_enemiesadventure_assets_all_efc74b3caccc0bb9da2fb8d20eb9728e.bundle.md5-0ade647e058a24e979d9dbc43bde0f2a
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_adventure_assets_all_cf67c5e3ed5c9456b4993d3c9b264b07.bundle.md5-88e3296fca1a0774073e7c4a24fc3d70
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_enemieschapter3_assets_all_40737cea1ce5f0307b0e544cbe0b3379.bundle.md5-fc6992546047e6e851fa9cb59fb41ff1
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_enemieschapter17_assets_all_dec26f218e334c24e570c856ba474fa7.bundle.md5-0d6e5369239b1a8ef367b513d6cba9ac
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_enemieschapter19_assets_all_2b7011691b3f6a7a724c6e11d11ab1c8.bundle.md5-a5d85089328df4543b88a060da17afb0
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_enemiesportal_assets_all_1986a87f5b22413dd60167f292ed2eff.bundle.md5-790d210cfb855b336872290d530a6ae5
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_enemieschapter4_assets_all_b3f14a279c7028cc512506a702c215ac.bundle.md5-23f8d1fe221fd2c99e25afe0861a7e80
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_enemieschapter6_assets_all_3beb64f3c4777eea0d05e0f5bdadb9b0.bundle.md5-4123c674cc4b3f88f5fe26fe340535e3
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_enemieschapter5_assets_all_8b628a5864378d4c295713f683495a40.bundle.md5-89be96e53af7c052b6839b9ec5a75418
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_enemieschapter7_assets_all_c5d21139692e74c034ac8182daa548d0.bundle.md5-ebbc41622f805431ecf7e03608ab5b0c
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_enemieschapter9_assets_all_f7c27fa56529e4231a8149ae31b642d0.bundle.md5-7f04619012191444c227a2aa4d4b8578
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_enemieschapter16_assets_all_87b52f6504f7241bd9e4653b96e5e581.bundle.md5-669b52934205e5d4c2f06d1510306078
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_enemieschapter11_assets_all_4028da88d58cc215027272decc078298.bundle.md5-3800e91a10c0bf858c7b6bd0dc6e10ed
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_enemieschapter23_assets_all_27146882e2ccd44b998be40aa2f9402d.bundle.md5-b5cda0dc18b1a45614597b8f94d0ef31
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_enemieschapter10_assets_all_411d52214a5c4ac56f903a30f537803c.bundle.md5-420af02b08776d0f519f4657b939d8e3
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_enemieschapter22_assets_all_cc8598537d6921db5b141f7c73eee1c1.bundle.md5-b9fd055b1eb2e3f7bdcb9a42c13dd8d5
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_enemiesflayedcharacters_assets_all_a9a8f41df3d0b86875b051dd79b5ae18.bundle.md5-6a7f71ae3388ec58d5150b9c8d873e53
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_hnl_assets_all_dfea3940cdae500f0628152abecd7ebe.bundle.md5-fd943e883d7c8db1dd5205f566e75b07
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_hnl_scenes_all_f44943a1a0d18a765252b055a7288416.bundle.md5-9539199513b0aadc31e77bd06308f8ed
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_chapter3_assets_all_54715d8410f37178e4af9ca89e1850be.bundle.md5-f8c33cf9440a8025995dffa637175143
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_chapters_shared_assets_remote_assets_all_97c6c814ae2385788a20631f3636b02b.bundle.md5-31ef8866dcbb7189100b4f5a1ceab0e8
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_social_assets_all_9620989ec9a3b4d5a368f925ca6060bc.bundle.md5-cc7ac1b143b416b47b2aba67ee665bdc
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_social_scenes_all_ead08b3c9fe39c43e21bbeaae417eb4c.bundle.md5-781b0d262a04d65c75f5b01fd44f90ea
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_videoassetsremote_assets_animatic_04_chapter_03_intro_15s_c3a7db3a9f80f055a8f6e506b82365a2.bundle.md5-17aae51338ab322ed7a689e95bb281fb
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_chapter4_assets_all_208c6ed18f6015334bb49be62d61d1ee.bundle.md5-6d154c28474bffb8759d78823ed0a552
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_videoassetsremote_assets_animatic_05_chapter_04_intro_15s_60b356205c45be746e114cfd88f7a633.bundle.md5-216170bce95512168459337ca9d7b0e4
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_chapter5_assets_all_03ebc8f2999b40aa534e2bc8ae300d0e.bundle.md5-5bf4073ee47c4c403d462c1bf611d602
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_videoassetsremote_assets_animatic_06_chapter_05_intro_15s_8a3844fa5a76617b967d7e1813505f88.bundle.md5-548509cd86b020f5b3512a22a7319a23
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_chapter6_assets_all_128b1ce9cd33e80f4f9b348649a2c3fd.bundle.md5-387c49f487660c0fc77e2f78bea402dd
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_chapter9_assets_all_98f1af7970ea75c474ff321528af90ca.bundle.md5-f3d8f01230af0e8e9d9729669837d57a
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_chapter7_assets_all_ced9d68d500b1dcea0ab7f93a9a6cbc9.bundle.md5-8652faa28c659726393d5aa1065a4594
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_chapter8_assets_all_6987b6cf7afcf5f71c8a02487afe284c.bundle.md5-232a764dc75422407265543a398d977a
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_chapter10_assets_all_1cfa610b756c8f48b4b2afcad1e0f279.bundle.md5-d946a380b12b6839899b309d9122aecf
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_chapter11_assets_all_e8ba4fd1684f88adef04f97ca92e7b32.bundle.md5-f18098391f17d945864ec577dfc2705d
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_chapter12_assets_all_0dab39274e1e3fcc8ab9572570e5b0fe.bundle.md5-dc5a4f5a2f471b358ea2f92733162e8e
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_chapter13_assets_all_00a7e1ec7b23afb516c1e2dc81903354.bundle.md5-f325dfb113cb6b725547f0d802a5d150
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_chapter14_assets_all_f93d3e3ff7d01c00ed9b5749423ffff6.bundle.md5-540e25bcf13e8e582110793613cb47ae
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_enemieschapter14_assets_all_ab4096e95f84e0177d33752131ff42ce.bundle.md5-64730966dd4b0aedae9cafccd0d80503
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_chapter15_assets_all_5a1740635500bcc9f6f8cd76ef30b92a.bundle.md5-0215d2d004d59d4f108dd0c321bfdd4c
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_chapter16_assets_all_72923e129686acf5a8e8f7f9741cfc82.bundle.md5-5485720d0633c141236e73e24c806e52
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_chapter17_assets_all_b11d0e45aa205febd6ef5a719e6a0d03.bundle.md5-737284b1d12d92b7f70f904a8ea32678
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_chapter18_assets_all_e96c94581610120da50c48be6216d76c.bundle.md5-2c89c7fa69c192c34fcef5e454b5fc97
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_chapter19_assets_all_f02223a847d605d7b122158e75984190.bundle.md5-3eab95e8c3dc9230933d8b01a6c1acaf
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_chapter20_assets_all_626931344ca177a1378e86ef33b72e8e.bundle.md5-4b3646aa13da9b0f22a6a626366b1eef
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_chapter21_assets_all_49b233a7f0042ddba9cae9cf8c40a73c.bundle.md5-c776138b3c3d04d907df425aafa26188
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_enemiesclubboss_assets_all_f9a8497aa9db175a5396c1449d5156d0.bundle.md5-2177af27da99eb038346fd5128b7ff98
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_fontsth_assets_all_0b8dc6a95a55b4d381ecf17640b81153.bundle.md5-af8563ade90eebbfdccb09e764996028
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_fontfallbacks_assets_all_1a743012d4e2383eab9c014a472119c3.bundle.md5-c7fc1a30a858916cf7354dea9d57beaa
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_adventure_scenes_all_c9500a601609a710d88058f3c3419632.bundle.md5-07773fb4ec3e58b07bb819abcc7452d7
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_eventcommon_assets_all_23eb4b0deacf32294acb80b2b38340bd.bundle.md5-915a0ebaaf12db0cb2a38ee4cc46d0f2
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_eventplaceholder_assets_all_1f9996589f68cf5aa700676db05fa854.bundle.md5-3a10853a17145e4a12b5e2d58f4fa88a
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_eventbarb_assets_all_c40d77130ff26ac9ae5d69e7eddca0bc.bundle.md5-c91341bb09ce24b330a78d11573e9f88
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_eventvalentines_assets_all_13c4e169dc7e2f2fdf0356e6f8c40367.bundle.md5-fc7ba74906436cfefd0d5495ea71457e
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_eventscienceclub_assets_all_faa89b6bc2b226063833f17660fd2084.bundle.md5-74361825e3f585c2753c48f5f24f171f
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_eventdartdustin_assets_all_445c250083a739d52a482bc7f5011b5f.bundle.md5-4eb969972497a3666c27dac792274d47
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_eventbauman_assets_all_c59d60b1c894513f68aa0d05bfa71f95.bundle.md5-f6ea7a034190fd49ea0530c73d5cbbf5
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_eventchrissy_assets_all_be10e7a12ce4596b7d12a5838ccab221.bundle.md5-b292a3999da278ef77c7c85ee6ae3a40
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_eventmallday_assets_all_d1d447cdc0912ce6de0d3ed718ce25d4.bundle.md5-c848191cd8b3fe7d574238da6bea1009
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_eventholiday_assets_all_2699aeba2d304b7d43f309a4a5fd3e73.bundle.md5-5f200c09f5f09e508f2144da4e8bc7dc
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_gifteventplaceholder_assets_all_f199966c00d68af05155cbe2adfde86c.bundle.md5-7b3efe503fee623a7a3291f2ca3e00f9
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_gifteventanniversary_assets_all_0a77d2ad922c226f3d067085ae3c9bde.bundle.md5-db56a82bb0ec851a2ab4376aa70b5449
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_gifteventholiday_assets_all_92cbdf909bb6b1c75c781941e0ce73aa.bundle.md5-baf4ad5a4d851b4db28b855ae9d08649
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_portalpass_assets_all_05f519b310b51a121590a35430d60a54.bundle.md5-fed0ec2af16abae51c9d138853aaa23e
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_eventquestscommon_assets_all_4e4469ee07d2473440881477f139bf82.bundle.md5-c5f693a452146117179813f35de1d50f
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_eventquestscommon_scenes_all_072e419a70021d842c79b2512924203f.bundle.md5-c09ddb6aad9972e51e2663b20060c31b
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_eventhub_scenes_all_9945d70b410946181861a6449f303570.bundle.md5-e3405d1128ed8ddf06d7e1b94f748bf4
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_dialog_popup_background_remote_assets_all_7185b743eaf156312aaf57b6cf68eef1.bundle.md5-f56f7909e664fae395823d2812350b0a
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_eventadventurewinter_assets_all_5f8aa484d387035805715ca2ff15cbc2.bundle.md5-23db2f05bf88c405d8857affe8cebda1
+  - https://cdntstg13ng.azureedge.net/content-tst-g13/AddressablesItemV2/Android_eventadventurepizza_assets_all_fb560e8d514ea9c731ab626281b88103.bundle.md5-939501ac1f75301af4fce9656456858a
+  
